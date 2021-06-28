@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585093980 source:c:\users\aleyna\desktop\sample\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1585081899 source:c:\users\aleyna\desktop\phone\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
