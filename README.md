@@ -3,12 +3,12 @@ In this programming project, it simulate a sorted file that contains a “phone 
 with the schema:
 
  LName: Last name of the contact (String),
- FName: First name of the contact (String),
- PhoneNo: Phone number (String of numeric characters that optionally begin with ‘+’)
- Records stored in ASCII (i.e., not binary). Fields of a record will be separated with
+FName: First name of the contact (String),
+PhoneNo: Phone number (String of numeric characters that optionally begin with ‘+’)
+Records stored in ASCII (i.e., not binary). Fields of a record will be separated with
 comma and records will be terminated with a new line character.
 Sample record: “Doe,John,+903224550000\n”
- Every page of the simulated sorted file corresponds to an ASCII file of up to 5 records. The
+Every page of the simulated sorted file corresponds to an ASCII file of up to 5 records. The
 first page of the simulated sorted file will be named “phone1.txt”. 
  it started with an empty page. As records are inserted, new files representing additional
 pages will be named incrementally as “phone2.txt”, “phone3.txt” etc.
