@@ -1,6 +1,7 @@
 # SortFilePhonebookDb
 In this programming project, it simulate a sorted file that contains a “phone book” database
 with the schema:
+
  LName: Last name of the contact (String),
  FName: First name of the contact (String),
  PhoneNo: Phone number (String of numeric characters that optionally begin with ‘+’)
